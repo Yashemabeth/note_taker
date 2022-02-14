@@ -5,6 +5,7 @@ The app is design to enable the user to create notes and save notes
 # Links
 
 - Deployed Heroku link
+- Deployed Github url -  https://yashemabeth.github.io/note_taker/
 
 ## Description
 
