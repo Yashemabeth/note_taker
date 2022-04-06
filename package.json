@@ -1,7 +1,7 @@
 {
-  "name": "note_taker",
+  "name": "note-taker",
   "version": "1.0.0",
-  "description": "Your assignment is to modify starter code to create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.",
+  "description": "an application where the user can add, save and delete notes from their planner",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Yashemabeth/note_taker.git"
+    "url": "git+https://github.com/yashemabethmcleod/note-taker.git"
   },
   "keywords": [],
   "author": "",
@@ -19,8 +19,10 @@
   },
   "homepage": "https://github.com/Yashemabeth/note_taker#readme",
   "dependencies": {
-    "express": "^4.17.2",
-    "nodemon": "^2.0.15",
+    "express": "^4.17.1",
     "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }

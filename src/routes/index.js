@@ -1,10 +1,11 @@
 const { Router } = require("express");
 
-const { renderNotesPage, renderHomePage } = require("../controllers");
+const api = require("./api");
+const view = require("./view");
 
 const router = Router();
 
-router.get("/notes", renderNotesPage);
-router.get("*", renderHomePage);
+router.use("/api", api);
+router.use("/", view);
 
 module.exports = router;
