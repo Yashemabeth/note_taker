@@ -5,9 +5,10 @@ The application is designed to enable the user to create notes and save notes an
 ## Deployed Github URL
 
 - https://yashemabeth.github.io/note_taker/
--
 
 ## Heroku URL
+
+- https://warm-inlet-03151.herokuapp.com/
 
 ## User Story
 
