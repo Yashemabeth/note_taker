@@ -1,6 +1,8 @@
 # Note Taker
 
-The application is designed to enable the user to create notes and save notes and delete notes.
+## Description
+
+The application is designed to enable the user to create notes and save notes and delete notes from their planner.
 
 ## Deployed Github URL
 
